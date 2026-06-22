@@ -24,7 +24,7 @@ This web application displays lists of board games and their reviews. While anyo
 - Maven
 - Terraform
 - Docker
-
+- Nexus
 ## Features
 
 - Full-Stack Application
