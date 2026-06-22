@@ -22,7 +22,6 @@ This web application displays lists of board games and their reviews. While anyo
 - Spring Security
 - Twitter Bootstrap
 - Maven
-- Terraform
 
 ## Features
 
